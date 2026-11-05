@@ -1,0 +1,8 @@
+# 日志与缓存
+*.log
+__pycache__/
+*.py[cod]
+
+# 编辑器
+.vscode/
+.idea/
